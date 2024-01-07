@@ -6,7 +6,7 @@
 - 💞️ I'm looking to collaborate on Odoo projects.
 - 📫 How to reach me:
   - 📧 Email: [nazairedayo.dev@gmail.com](mailto:nazairedayo.dev@gmail.com)
-  - 🌐 LinkedIn: [Dayo Sikiton Nazaire Adjakoun](https://www.linkedin.com/in/dayo-sikiton-nazaire-adjakoun-ilt-latour/)
+  - 🌐 LinkedIn: [Dayo Sikiton Nazaire Adjakoun](https://www.linkedin.com/in/nadjakoun/)
   - 🆙 Upwork: [My Upwork Profile](https://www.upwork.com/freelancers/~01ddfdc4a27cd2e232?viewMode=1)
 
 <!---
